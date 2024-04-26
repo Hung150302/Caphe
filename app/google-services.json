@@ -1,66 +1,26 @@
 {
   "project_info": {
-    "project_number": "999286569023",
-    "firebase_url": "https://appcaphe-default-rtdb.firebaseio.com",
-    "project_id": "appcaphe",
-    "storage_bucket": "appcaphe.appspot.com"
+    "project_number": "345146218740",
+    "project_id": "coffeefinal",
+    "storage_bucket": "coffeefinal.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:999286569023:android:fa0b33189f6111a87ca08a",
-        "android_client_info": {
-          "package_name": "com.example.appcoffee"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "999286569023-0tfj21kpmos0ldo1ddo08rvgff5tfufk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB1Q1zYHbzBl8zObygKRSao9qZIUm6AF70"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "999286569023-0tfj21kpmos0ldo1ddo08rvgff5tfufk.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:999286569023:android:701977fc4a7bfc447ca08a",
+        "mobilesdk_app_id": "1:345146218740:android:6f658b1ee07badfdeee6a1",
         "android_client_info": {
           "package_name": "com.example.foodorder"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "999286569023-0tfj21kpmos0ldo1ddo08rvgff5tfufk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB1Q1zYHbzBl8zObygKRSao9qZIUm6AF70"
+          "current_key": "AIzaSyDQXzfVXw3zR1kEqSmDh8mXi3ryfLZCfBE"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "999286569023-0tfj21kpmos0ldo1ddo08rvgff5tfufk.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
