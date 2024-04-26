@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">345146218740</string>
+    <string name="google_api_key" translatable="false">AIzaSyDQXzfVXw3zR1kEqSmDh8mXi3ryfLZCfBE</string>
+    <string name="google_app_id" translatable="false">1:345146218740:android:6f658b1ee07badfdeee6a1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDQXzfVXw3zR1kEqSmDh8mXi3ryfLZCfBE</string>
+    <string name="google_storage_bucket" translatable="false">coffeefinal.appspot.com</string>
+    <string name="project_id" translatable="false">coffeefinal</string>
+</resources>

@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xxhdpi_ic_cart_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xxhdpi/ic_cart_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_activity_signup.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_white_shape_border_red_corner_3.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_white_shape_border_red_corner_3.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-mdpi_ic_cart_white_24.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-mdpi/ic_cart_white_24.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_activity_food_detail.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xhdpi_fake_image_food.jpeg.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xhdpi/fake_image_food.jpeg"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_nav_cart.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_nav_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xxxhdpi_ic_cart_white_24.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xxxhdpi/ic_cart_white_24.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_indicatior_selected.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_indicatior_selected.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_fragment_home.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_yellow_shape_corner_6.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_yellow_shape_corner_6.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_red_shape_corner_6.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_red_shape_corner_6.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_layout_bottom_sheet_order.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/layout_bottom_sheet_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_backgroundcoffee.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/backgroundcoffee.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_activity_splash.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-mdpi_ic_back_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-mdpi/ic_back_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-mdpi_ic_cart_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-mdpi/ic_cart_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xhdpi_ic_cart_white_24.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xhdpi/ic_cart_white_24.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_item_cart.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xxhdpi_ic_cart_white_24.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xxhdpi/ic_cart_white_24.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-hdpi_ic_back_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-hdpi/ic_back_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_youtube.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_youtube.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_activity_main.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/menu_menu_bottom_navigation.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/menu/menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_nav_contact.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_nav_contact.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_nav_order.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_nav_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xxxhdpi_ic_cart_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xxxhdpi/ic_cart_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-xhdpi_logo.jpg.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-xhdpi/logo.jpg"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xhdpi_ic_cart_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xhdpi/ic_cart_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_logo.jpg.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/logo.jpg"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_zalo.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_zalo.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_skype.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_skype.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/color_custom_bottom_navigation.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/color/custom_bottom_navigation.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xhdpi_ic_back_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xhdpi/ic_back_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_item_food_popular.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/item_food_popular.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xxxhdpi_ic_back_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xxxhdpi/ic_back_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_gray_shape_corner_6.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_gray_shape_corner_6.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_item_food_grid.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/item_food_grid.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_blue_shape_corner_6.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_blue_shape_corner_6.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-hdpi_ic_cart_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-hdpi/ic_cart_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_layout_bottom_sheet_cart.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/layout_bottom_sheet_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_nav_feedback.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_nav_feedback.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_image_no_available.jpg.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/image_no_available.jpg"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_item_order.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_search_red.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_search_red.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_white_shape_border_red.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_white_shape_border_red.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_cart_red.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_cart_red.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_facebook.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_facebook.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_hotline.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_hotline.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_gmail.jpg.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_gmail.jpg"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_white_shape_border_gray.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_white_shape_border_gray.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_item_contact.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_activity_forgotpassword.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_forgotpassword.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_fragment_feedback.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_ic_nav_home.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/ic_nav_home.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-xxhdpi_ic_back_white_36.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-xxhdpi/ic_back_white_36.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable-hdpi_ic_cart_white_24.png.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable-hdpi/ic_cart_white_24.png"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_activity_login.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_green_shape_corner_6.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_green_shape_corner_6.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_fragment_cart.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_fragment_order.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_indicatior_unselected.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_indicatior_unselected.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_bg_white_shape_border_red_corner_30.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/bg_white_shape_border_red_corner_30.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/layout_fragment_contact.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/drawable_radius_login.xml.flat",
+        "source": "com.example.foodorder.app-main-28:/drawable/radius_login.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.foodorder.app-main-28:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

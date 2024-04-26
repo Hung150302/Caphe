@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.foodorder.app-mergeDebugResources-24:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hungp\\.gradle\\caches\\transforms-3\\c3e6805395d8fc28acc8007d71f641ea\\transformed\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    }
+                }
+            ]
+        }
+    ]
+}

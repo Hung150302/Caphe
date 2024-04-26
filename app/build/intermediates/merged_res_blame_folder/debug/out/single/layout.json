@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/fragment_contact.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/activity_signup.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/item_food_grid.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/item_food_grid.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/fragment_cart.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/item_cart.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/item_food_popular.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/item_food_popular.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/item_contact.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/layout_bottom_sheet_cart.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/layout_bottom_sheet_cart.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/item_order.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/item_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/fragment_feedback.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/activity_login.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/activity_forgotpassword.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_forgotpassword.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/fragment_order.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/activity_food_detail.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/layout_bottom_sheet_order.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/layout_bottom_sheet_order.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/fragment_home.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodorder.app-mergeDebugResources-25:/layout/activity_splash.xml",
+        "source": "com.example.foodorder.app-main-28:/layout/activity_splash.xml"
+    }
+]
